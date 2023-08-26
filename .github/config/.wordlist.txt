@@ -1,8 +1,14 @@
+Bing
+BingImageCreator
 Changelog
 CHANGELOG
+ChatGPT
 CodeQL
+Dall
 DALL
 Dependabot
+genai
+github
 JSON
 Linter
 md
@@ -11,6 +17,7 @@ PR
 pylint
 OpenAI
 OPENAI
+README
 SuperLinter
 yamllint
 yml
