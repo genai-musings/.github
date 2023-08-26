@@ -1,5 +1,6 @@
 Bing
 BingImageCreator
+bugfixes
 Changelog
 CHANGELOG
 ChatGPT
@@ -18,6 +19,7 @@ pylint
 OpenAI
 OPENAI
 README
+repo
 SuperLinter
 yamllint
 yml
