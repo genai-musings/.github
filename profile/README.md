@@ -12,7 +12,6 @@ Sharing the results of those experiments through this, the genai-musings GitHub 
 
 - [dawdling-with-D-ID](https://github.com/genai-musings/dawdling-with-D-ID)
 
-
 Each repository also include the necessary GitHub CI Actions to lint, validate and test any code submitted before it is merged and a GitHub CD Action to build and deploy a docker image containing the respective sample applications.
 
 Note: The sample repositories require accounts, keys and credits in some cases for the respective AI tools. Details as to what is required is specified in the README.md files of the individual repositories in the organization.
