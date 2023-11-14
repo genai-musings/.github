@@ -1,12 +1,12 @@
 # genai-musings - README.md
 
-Recently I spent sometime spent experimenting with a number of generative AI text, image and video creation tools including ChatGPT, D-ID Studio, Dall-E and Bing Image Creator via the API interfaces they provide.
+Recently we spent sometime spent experimenting with a number of generative AI text, image and video creation tools including ChatGPT, D-ID Studio, Dall-E and Bing Image Creator via the API interfaces they provide.
 
 Sharing the results of those experiments through this, the genai-musings GitHub organization, which includes a number of sample repositories containing "bare bones" examples illustrating how to make a single API call to an AI tool and how to process the response.
 
 - [chatting-with-ChatGPT](https://github.com/genai-musings/chatting-with-ChatGPT)
 
-- [creating-with-BingImageCreator](https://github.com/genai-musings/creating-with-BingImageCreator)
+- [creating-with-BingImageCreator](https://github.com/genai-musings/creating-with-BingImageCreator) (archived)
 
 - [dallying-with-DALL-E](https://github.com/genai-musings/dallying-with-DALL-E)
 
