@@ -12,7 +12,7 @@ We are now sharing the results of those experiments through this, the [genai-mus
 
 - [dawdling-with-D-ID](https://github.com/genai-musings/dawdling-with-D-ID)
 
-Each repository also includes: 
+Each repository also includes:
 
 - GitHub CI Actions to lint, validate and test any code submitted before it is merged.
 
