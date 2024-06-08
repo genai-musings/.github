@@ -18,8 +18,8 @@ Each repository also includes:
 
 - GitHub CD Action to build and deploy a docker image containing the respective sample applications.
 
-Note: The sample applications require accounts, keys and credits in some cases for the respective AI tools. Details as to what is required for each sample application is specified in the README.md files of the individual repositories.
+Note: The sample applications require accounts, keys and in some cases credits for the respective AI tools. Details as to what is required for each sample application is specified in the README.md files of the individual repositories.
 
-Finally upon noticing a common pattern emerging when creating the [genai-musings](https://github.com/genai-musings) repositories, this organization also contains a GitHub Template Repository -[template-repo-template](https://github.com/genai-musings/template-repo-template) - which is a template Python repository intended for use if and when creating similar repositories for other AI tools or indeed when creating new Python repositories.
+Finally as a common pattern emerged when creating the [genai-musings](https://github.com/genai-musings) repositories, this organization also contains a GitHub Template Repository - [template-repo-template](https://github.com/genai-musings/template-repo-template). This is a Python template repository intended for use if and when creating similar repositories for other AI tools or indeed when creating new Python repositories.
 
-Feel free to browse the code, to make a contribution, to ask a question or report a bug by opening an issue in the relevant GitHub repository.
+Feel free to browse the code, to make a contribution by submitting a pull request, to ask a question or report a bug by opening an issue in the relevant [genai-musings](https://github.com/genai-musings) GitHub repository.
